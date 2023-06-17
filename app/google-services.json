@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "658943043967",
+    "project_id": "moviles-13",
+    "storage_bucket": "moviles-13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658943043967:android:109f52ed7b9b10d361d24a",
+        "android_client_info": {
+          "package_name": "com.example.firebaseinit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658943043967-1skfknh9dmrc7tmaotolnl2kes7e43tt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkP7a_2VGKIaSt4lpDwkXinu1qkE-J3Dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658943043967-1skfknh9dmrc7tmaotolnl2kes7e43tt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658943043967:android:7969a0f71ec9b11c61d24a",
+        "android_client_info": {
+          "package_name": "com.example.universidad_jueves"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658943043967-1skfknh9dmrc7tmaotolnl2kes7e43tt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkP7a_2VGKIaSt4lpDwkXinu1qkE-J3Dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658943043967-1skfknh9dmrc7tmaotolnl2kes7e43tt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
